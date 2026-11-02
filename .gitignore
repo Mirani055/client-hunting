@@ -1,0 +1,6 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+link_loot_leads*.xlsx
+low_dr_leads*.xlsx
